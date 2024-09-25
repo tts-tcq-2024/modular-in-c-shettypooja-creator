@@ -1,4 +1,4 @@
-#include "colour_code.h"
+#include "ColourCoding.h"
 
 int main() {
     testNumberToPair(4, WHITE, BROWN);
